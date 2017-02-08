@@ -5,3 +5,5 @@ commit index 상태 기록
 pull 원격 저장소의 내용을 가져오기
 
 haha let's see
+
+hawaii
